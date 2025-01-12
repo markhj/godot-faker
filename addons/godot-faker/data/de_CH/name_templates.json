@@ -1,0 +1,10 @@
+{
+	"templates": {
+		"most_common": [
+			"[first] [last]"
+		],
+		"common": [
+			"[first] [first] [last]"
+		]
+	}
+}

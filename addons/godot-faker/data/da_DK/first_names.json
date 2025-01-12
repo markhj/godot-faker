@@ -1,0 +1,16 @@
+{
+	"format": {
+		"gendered": true
+	},
+	"male": [
+		"Hans",
+		"Jens",
+		"Lars",
+		"Kenneth"
+	],
+	"female": [
+		"Birgit",
+		"Anette",
+		"Sofie"
+	]
+}

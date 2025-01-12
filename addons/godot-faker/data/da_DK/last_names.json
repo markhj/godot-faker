@@ -1,0 +1,11 @@
+{
+	"format": {
+		"gendered": false
+	},
+	"neutral": [
+		"Hansen",
+		"Jensen",
+		"Larsen",
+		"Andersen"
+	]
+}
