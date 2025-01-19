@@ -1,12 +1,12 @@
 {
-	"templates": {
-		"most_common": [
-			"[first] [last]"
-		],
-		"common": [
-			"[first]-[first] [last]",
-			"[first] [first]-[last]",
-			"[first] [first] [last]"
-		]
-	}
+    "templates": {
+        "most_common": [
+            "[first] [last]"
+        ],
+        "common": [
+            "[first]-[first] [last]",
+            "[first] [first]-[last]",
+            "[first] [first] [last]"
+        ]
+    }
 }
